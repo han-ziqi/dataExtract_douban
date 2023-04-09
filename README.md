@@ -10,7 +10,7 @@ This is a data extraction program that extracts the annual [top250 movie ranking
 
 **Here is a Screenshot to display results**
 
-![demo for excel](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20Excel%20view.png)
+![demo for excel](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20Excel%20view.png "Excel view")
 
-![deni for SQLite](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20SQLite3%20view.png)
+![deni for SQLite](https://github.com/han-ziqi/douban/raw/master/demo/Result%20in%20SQLite3%20view.png "SQLite view")
 
