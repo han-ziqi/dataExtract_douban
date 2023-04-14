@@ -1,6 +1,8 @@
 ## README
 
-This is a data extraction program that extracts the annual [top250 movie rankings](https://movie.douban.com/top250?start=0&filter=) from a [Chinese movie review site](https://www.douban.com)
+It is a program that I have developed independently. It can extract [annual top 250 movie rankings](https://movie.douban.com/top250?start=0&filter=) from [Chinese movie review site](https://www.douban.com). With just a single click, the program can extract data at runtime and save it in both Excel and SQLite formats, making it easy for users to analyze and manipulate the data according to their needs. 
+
+The program utilizes **Python**,and **SQLite database management system** to automate the data extraction process.
 
 ---
 
